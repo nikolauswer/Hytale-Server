@@ -1,5 +1,7 @@
 # 🛡️ Hytale Server (Linux) - "All-in-One" Setup
 
+✅ **Status:** Erfolgreich getestet und verifiziert auf **Ubuntu 25.04 (Plucky Puffin)**.
+
 Dieses Repository enthält ein vollautomatisiertes Skript (`start.sh`) zum Aufsetzen, Verwalten und Starten eines Hytale-Servers unter Linux.
 
 Es kümmert sich um Updates, Backups, die Ordnerstruktur und den automatischen Neustart bei Abstürzen.
