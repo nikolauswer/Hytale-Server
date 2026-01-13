@@ -71,6 +71,8 @@ Das Skript sorgt automatisch für Ordnung. Dein Verzeichnis sieht so aus:
     ├── logs/                       # Log-Dateien
     ├── credentials.json            # Dein Login-Token
     └── ...
+```
+
 
 ---
 
