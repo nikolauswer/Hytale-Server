@@ -19,8 +19,6 @@ Es kümmert sich um Updates, Backups, die Ordnerstruktur und den automatischen N
 
 ## 🌐 WICHTIG: Netzwerk & Ports
 
-Damit deine Freunde beitreten können, musst du **zwei Dinge** tun:
-
 1.  **Firewall (Linux):**
     ```bash
     sudo ufw allow 5520/udp
@@ -95,7 +93,7 @@ Das Skript sorgt automatisch für Ordnung. Dein Verzeichnis sieht so aus:
 
 ---
 
-## ⏰ Automatischer Neustart (Cronjob)
+## ⏰ Automatischer Neustart (Cronjob) (optional)
 
 Um den Server jeden Morgen automatisch neu zu starten (für Backups und RAM-Bereinigung), richte einen Cronjob ein.
 
