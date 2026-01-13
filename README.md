@@ -1,11 +1,3 @@
----
-
-### Der schnelle Weg (Direkt auf dem Server)
-
-Kopiere einfach diesen Block komplett in dein Terminal. Er löscht die alte, kaputte Datei und schreibt die neue, saubere Version:
-
-```bash
-cat << 'EOF' > README.md
 # 🛡️ Hytale Server (Linux) - "All-in-One" Setup
 
 Dieses Repository enthält ein vollautomatisiertes Skript (`start.sh`) zum Aufsetzen, Verwalten und Starten eines Hytale-Servers unter Linux.
