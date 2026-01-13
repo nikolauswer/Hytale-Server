@@ -17,6 +17,23 @@ Es kümmert sich um Updates, Backups, die Ordnerstruktur und den automatischen N
 
 ---
 
+## 🌐 WICHTIG: Netzwerk & Ports
+
+Damit deine Freunde beitreten können, musst du **zwei Dinge** tun:
+
+1.  **Firewall (Linux):**
+    ```bash
+    sudo ufw allow 5520/udp
+    ```
+2.  **Router (FritzBox, Speedport, etc.):**
+    Du musst eine **Port-Weiterleitung (Port Forwarding)** in deinem Router einrichten!
+    * **Protokoll:** UDP
+    * **Port:** 5520
+    * **An:** Die lokale IP deines Linux-Servers
+
+
+---
+
 ## 🚀 Installation & Start
 
 ### 1. Vorbereitung
