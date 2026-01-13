@@ -58,7 +58,7 @@ Beim allerersten Start (oder nach einer Neuinstallation) musst du den Server ver
 Das Skript sorgt automatisch für Ordnung. Dein Verzeichnis sieht so aus:
 
 
-
+```text
 ~/hytale/
 ├── start.sh                        # Das Steuer-Skript (HIER STARTEN)
 ├── README.md                       # Diese Datei
